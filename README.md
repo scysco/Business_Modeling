@@ -13,8 +13,7 @@ A continuación se listan las unidades y los proyectos correspondientes. Cada un
 * ### [Unidad 2: Notación para el Modelado de Procesos de Negocio (BPMN)](./Unit_2/)
     * **Entregable 1:** [Actividad 3: Ejemplo visual de un modelo basado en BPMN (Gary White)](./Unit_2/Actividad_3_BPMN_Devolucion/)
     * **Descripción:** Diagrama de procesos BPMN que modela el flujo de devolución y reembolso de la tienda en línea "Gary White".
-    <br>
-    * **Entregable 2:** [Evidencia de Aprendizaje: Manual del uso del BPMN (Próximamente)](./Unit_2/Evidencia_de_Aprendizaje_BPMN_Manual/)
+    * **Entregable 2:** [Evidencia de Aprendizaje: Manual del uso del BPMN](./Unit_2/Evidencia_de_Aprendizaje_BPMN_Manual/)
     * **Descripción:** Manual y diagramas BPMN a nivel macro y micro de un proceso de entrega a domicilio.
 
 ---
