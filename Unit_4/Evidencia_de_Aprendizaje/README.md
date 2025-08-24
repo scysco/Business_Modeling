@@ -1,6 +1,6 @@
 #  Evidencia de Aprendizaje: Diagrama de Transición de Estados (UML) ☕
 
-[![Abrir en Draw.io](https://img.shields.io/badge/Abrir%20en-Draw.io-blue)](https://app.diagrams.net/#Uhttps://raw.githubusercontent.com/scysco/Business_Modeling/tree/main/Unit_4/Evidencia_de_Aprendizaje/DMDN_U4_EA_FRSM.drawio)
+[![Abrir en Draw.io](https://img.shields.io/badge/Abrir%20en-Draw.io-blue)](https://app.diagrams.net/#Uhttps://raw.githubusercontent.com/scysco/Business_Modeling/main/Unit_4/Evidencia_de_Aprendizaje/DMDN_U4_EA_FRSM.drawio)
 
 ---
 
