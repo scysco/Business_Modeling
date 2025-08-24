@@ -16,6 +16,13 @@ A continuación se listan las unidades y los proyectos correspondientes. Cada un
     * **Entregable 2:** [Evidencia de Aprendizaje: Manual del uso del BPMN](./Unit_2/Evidencia_de_Aprendizaje_BPMN_Manual/)
     * **Descripción:** Manual y diagramas BPMN a nivel macro y micro de un proceso de entrega a domicilio.
 
+* ### [Unidad 3: (Pendiente de añadir)]()
+    * **Descripción:** Los entregables de esta unidad están pendientes de ser añadidos.
+
+* ### [Unidad 4: Modelo conceptual](./Unit_4/)
+    * **Entregable:** [Evidencia de Aprendizaje: Diagrama de Transición de Estados (Pedidos Express)](./Unit_4/Evidencia_de_Aprendizaje/)
+    * **Descripción:** Diagrama de Transición de Estados (UML) que modela el ciclo de vida completo de un "Pedido" para la cafetería digital "Pedidos Express".
+
 ---
 ## 👨‍💻 Autor
 
